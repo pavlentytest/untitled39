@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello world!");
         int x = 100;
         //https://github.com/pavlentytest/untitled39.git
+        // А вот и нет
     }
 }
