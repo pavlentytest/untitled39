@@ -3,9 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
         int x = 100;
-        if (x == 100)
-        {
-            x = 0;
-        }
+
     }
 }
