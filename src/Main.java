@@ -6,6 +6,13 @@ public class Main {
 
 
         Scanner scanner = new Scanner();
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("Hello world!");
 
     }
 }
