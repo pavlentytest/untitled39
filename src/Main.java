@@ -1,8 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 2;
-        while (true) {
-            x *= x;
-        }
+
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("qwe");
+        System.out.println("Hello world!");
+
     }
 }
